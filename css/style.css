@@ -1,0 +1,30 @@
+div{
+    height: 100vh;
+    width: 75%;
+    float: left;
+    background: linear-gradient(to top, #ecebe6, #f2f2f2, #dbdbdb, #eaeaea);
+}
+.logo{
+}
+body{
+    margin: 0px;
+}
+h1{
+    font-size: 50px;
+    color: red;
+}
+h2{
+    padding: 20px;
+    text-transform: uppercase;
+}
+h3{
+    text-transform: uppercase;
+}
+nav{
+    height: 100vh;
+    width: 25%;
+    float: right;
+}
+span{
+    font-style: italic;
+}
